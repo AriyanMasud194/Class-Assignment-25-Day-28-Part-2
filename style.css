@@ -527,6 +527,10 @@ form{
     box-shadow: 2px 0px 12px #ddd;
     padding-bottom: 79px;
     margin-top: 13px;
+	transition: .3s;
+}
+.area:focus{
+	box-shadow: 2px 0px 12px #aa972c;
 }
 /* footer-section */
 
