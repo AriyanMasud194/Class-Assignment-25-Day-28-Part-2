@@ -494,40 +494,39 @@ form{
 }
 
 .emails {
-	padding: 15px;
-	border-radius: 10px;
-	outline: none;
-	border: 1px solid #cabe7e;
-	padding-right: 330px;
-	font-size: 18px;
-	max-width: 100%;
+    padding: 15px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid #cabe7e;
+    padding-right: 292px;
+    font-size: 18px;
+    max-width: 100%;
     box-shadow: 2px 0px 12px #ddd;
 }
 .names {
-	padding: 15px;
-	/* padding-right: 15px; */
-	border-radius: 10px;
-	outline: none;
-	border: 1px solid #cabe7e;
-	padding-right: 56px;
-	margin-top: 13px;
-	font-size: 18px;
-	font-weight: 500;
-	margin-left: ;
-	margin-right: 3px;
-	box-shadow: 2px 0px 12px #ddd;
+    padding: 15px;
+    padding-right: 27px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid #cabe7e;
+    margin-top: 13px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: ;
+    margin-right: 3px;
+    box-shadow: 2px 0px 12px #ddd;
 }
 .area {
-	padding: 15px;
-	border-radius: 10px;
-	outline: none;
-	border: 1px solid #cabe7e;
-	padding-right: 314px;
-	font-size: 18px;
-	max-width: 100%;
-	box-shadow: 2px 0px 12px #ddd;
-	padding-bottom: 79px;
-	margin-top: 13px;
+    padding: 15px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid #cabe7e;
+    padding-right: 314px;
+    font-size: 18px;
+    max-width: 100%;
+    box-shadow: 2px 0px 12px #ddd;
+    padding-bottom: 79px;
+    margin-top: 13px;
 }
 /* footer-section */
 
